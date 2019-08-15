@@ -1,0 +1,6 @@
+## Interface: 11302
+## Notes: Makes your friendly and enemy nameplates class colored.
+## Version: 1.0
+## Title: BrightleafNameplateClassColors
+
+BrightleafNameplateClassColors.lua
